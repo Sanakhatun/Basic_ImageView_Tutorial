@@ -32,6 +32,8 @@ tools:context="com.professional.tutorials.basic_imageview_tutorial.MainActivity"
     android:layout_gravity="center"
     android:text="Click Here"
     android:textAllCaps="false"
-    android:layout_margin="10dp"/>
+    android:layout_margin="10dp"
+    android:background="#1766A6"
+    android:textColor="#fff"/>
 
 </LinearLayout>
